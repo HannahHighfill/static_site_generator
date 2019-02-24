@@ -1,13 +1,19 @@
 p{
-font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: bgcolor="#FF6347";
 }
 h1{
-font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+   color: bgcolor="#B22222";
 }
 h3{
-font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
-<body bgcolor="#FF6347">
-<body bgcolor="#B22222">
+head {
+    font-family: 'Poppins', sans-serif;
+    background-color: #FF6347";
+    }
+/*<body bgcolor="#FF6347">*/
+/*<body bgcolor="#B22222">*/
 
 
